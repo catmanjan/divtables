@@ -1,0 +1,28 @@
+.table, 
+.tr, 
+.th, 
+.td {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color: gray;
+}
+
+.tr {
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit;
+}
+
+.th {
+	font-weight: bold;
+	text-align: center;
+}
+
+.td, 
+.th {
+	display: table-cell;
+	vertical-align: inherit;
+}
+
+/*yep, it's a joke*/
