@@ -1,4 +1,4 @@
 # divtables
-Enhance your '''div'''s to give you all the functionality of '''table'''s!
+Enhance your ```div``` tags to give you all the functionality of tables!
 
-Just include [[divtables.css]] in your favourite web page.
+Just include ```divtables.css``` in your favourite web page.
